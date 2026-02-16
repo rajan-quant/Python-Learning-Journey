@@ -1,0 +1,9 @@
+IN python:
+list is a data structure in which we can store a group of elements and every elements can be diffterent data type.
+- used to store multiple types of data in a single variable and can perform multiple operations on it
+
+charactersitics-
+1 - ordered
+2- mutable
+3- dynamic
+4- heterogeneous

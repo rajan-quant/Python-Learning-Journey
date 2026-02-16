@@ -1,0 +1,15 @@
+Tuple - 
+charactersitics - 
+1. immutable- connot modify once created
+2. heterogeneous - multiple types of data can be stored
+3. To store data in tuple we us ()
+    in list we use []
+
+what can be done with tuples
+
+-len()
+-min, max
+-count()
+-index()
+-sort()
+-slice()
