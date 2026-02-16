@@ -35,4 +35,6 @@ This repository contains practice programs, examples, and exercises I solved whi
 
 ---
 
+[View Full Roadmap](./progress.md.txt)
+
 ⭐ Consistent learning is my superpower.
