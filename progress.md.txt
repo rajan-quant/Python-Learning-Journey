@@ -1,0 +1,26 @@
+# Learning Progress Log 📈
+
+## Week 1
+✔ Python Basics  
+✔ Data Types  
+✔ Operators  
+
+## Week 2
+✔ Conditionals  
+✔ Loops  
+✔ Strings  
+
+## Week 3
+✔ Lists  
+✔ Tuples  
+✔ Dictionaries  
+
+---
+
+## Currently Learning
+Functions
+
+## Next Topics
+- OOP
+- File Handling
+- Exception Handling
