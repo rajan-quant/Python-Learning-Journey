@@ -1,0 +1,51 @@
+Why need of OOPs(Object Oriented Programming)?
+
+To solve These problems:-
+ 1.Code duplication
+ 2.Code maintainanace
+ 3.Data Security issues
+ 4.Poor code reusibility
+ 5.No real world representation
+
+OOPs is the unique type of programming concept where we represent real world things as 
+an object 
+
+OOps is used to:
+
+1.It is a best choice for large projects
+2.Better organaization
+3.Sequrity
+3.Easier maintainance,updation,and change
+
+
+
+
+Object Oriented Programming 
+
+1.Classes and Object
+
+Classes - a class is a blueprint or templet for creating objects
+
+map - class
+house -object
+
+Object is the actual instance of a class
+
+class - car blueprint
+object - actual car
+
+
+-------------------------
+#self key worl
+
+'self' is a special key word or variable which is used inside a class to reffer to the current object
+
+name roll number grade
+program software
+
+    95
+    90
+
+update marks  
+
+udit > 95
