@@ -1,0 +1,21 @@
+Constructors:- 
+- In Python, a constructor is a special method used to initialize the attributes (variables) of an object 
+when it is created
+
+#  __init__() - is a special method which works as a Constructors
+
+syntax:-
+class className:
+     def __init__(self,parameter1,parameter2,...):
+         self.property1 = parameter1
+         self.property2 = parameter2
+         self. ...... = ......
+
+Type of Constructors
+
+-In python, there are mainly three type of Constructors:-
+
+1.Default Constructor (self)
+2.Parameterized Constructor (self,name,age,...)
+3.Constructor with default Values (self,name = 'unknow',age = 0,...)
+
