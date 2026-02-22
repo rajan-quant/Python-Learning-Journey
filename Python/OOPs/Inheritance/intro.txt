@@ -1,0 +1,8 @@
+class parent:
+propt1,propt2
+
+class child:
+propt3,propt4,propt2
+
+instead of creating propt2 again i just inherient from parent class
+this is inheritance
