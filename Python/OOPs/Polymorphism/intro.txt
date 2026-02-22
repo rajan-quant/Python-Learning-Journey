@@ -1,0 +1,14 @@
+Polymorphism
+
+one name - many forms
+
+eg:
+run
+-person can run fast
+-car runs on petrol
+-computer program run smoothly
+
+1 word = run - many forms
+
+
+
