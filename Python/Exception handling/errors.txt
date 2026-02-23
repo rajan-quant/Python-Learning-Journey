@@ -1,0 +1,41 @@
+what is error?
+
+
+Three types of error
+
+1.compile time error
+2.run time error
+3.logical error
+
+
+error in software - bugs
+removing/fixing these bugs - debugging
+
+
+exception ->
+1.start running
+2-Warning sign
+3-catch and hadle, saves our program from crashing
+
+exception handling?
+1-
+zerodivisionerror
+
+100 line
+10-20 line > error
+organized
+
+----------
+# blocks
+try - except 
+
+try - block is the block of code where we thing error could come 
+except - block is the block which tell the compiler what to do if error occur
+
+
+finally block -
+1.this will always run wethere exception will raise or not
+2.its useful for tasks where we have to close files or if we have to release a resource
+
+
+nested try - except block
